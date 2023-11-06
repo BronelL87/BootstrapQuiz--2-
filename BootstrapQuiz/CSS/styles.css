@@ -1,0 +1,8 @@
+.titleCenter {
+    display: flex; justify-content: center;
+}
+
+.bgGray {
+    background-color: slategray;
+}
+
